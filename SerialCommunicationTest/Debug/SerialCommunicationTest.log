@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  SerialPort.cpp
+  SerialCommunicationTestDlg.cpp
+f:\董老师项目\serialcom_yihai_test\serialcommunicationtest\serialcommunicationtestdlg.cpp(370): warning C4244: “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+f:\董老师项目\serialcom_yihai_test\serialcommunicationtest\serialcommunicationtestdlg.cpp(379): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+f:\董老师项目\serialcom_yihai_test\serialcommunicationtest\serialcommunicationtestdlg.cpp(627): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  SerialCommunicationTest.cpp
+  正在生成代码...
+  SerialCommunicationTest.vcxproj -> F:\董老师项目\SerialCom_YiHai_TEST\Debug\SerialCommunicationTest.exe
+  SerialCommunicationTest.vcxproj -> F:\董老师项目\SerialCom_YiHai_TEST\Debug\SerialCommunicationTest.pdb (Full PDB)
